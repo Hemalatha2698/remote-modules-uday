@@ -1,5 +1,5 @@
 variable "instance-type" {
     type = string
-    default = "t3.small"
+    default = "t3.micro"
   
 }
